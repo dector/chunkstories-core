@@ -12,6 +12,7 @@ keyBind crouch C
 keyBind use F
 keyBind inventory E
 keyBind chat T
+keyBind commandInChat SLASH hidden
 
 #UI navigation
 keyBind exit ESCAPE hidden
